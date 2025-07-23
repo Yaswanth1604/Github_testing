@@ -11,6 +11,6 @@ function typeEffect(text, speed = 100, callback = () => {}) {
 }
 
 // Example usage:
-typeEffect("Typing this out... with a typewriter effect!\n", 80, () => {
+typeEffect("Typing this out... with a typewriter effect!\n", 800, () => {
   console.log("\n🎉 Done!");
 });
